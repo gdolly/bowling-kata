@@ -1,0 +1,14 @@
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.AssemblyInfoInputs.cache
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.AssemblyInfo.cs
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.csproj.CoreCompileInputs.cache
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\bin\Debug\net8.0\BowlingKata.exe
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\bin\Debug\net8.0\BowlingKata.deps.json
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\bin\Debug\net8.0\BowlingKata.runtimeconfig.json
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\bin\Debug\net8.0\BowlingKata.dll
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\bin\Debug\net8.0\BowlingKata.pdb
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.dll
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\refint\BowlingKata.dll
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.pdb
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\BowlingKata.genruntimeconfig.cache
+C:\Users\dolly\RiderProjects\BowlingKata\BowlingKata\obj\Debug\net8.0\ref\BowlingKata.dll
